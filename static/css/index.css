@@ -731,6 +731,39 @@ code {
   color: var(--text-secondary);
 }
 
+.poster-figure {
+  margin: 1.5rem 0 0;
+  padding: 0.75rem;
+  overflow: hidden;
+  background: #ffffff;
+  border: 1px solid rgba(148, 163, 184, 0.22);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-md);
+}
+
+.poster-image-link {
+  display: block;
+  line-height: 0;
+}
+
+.poster-image-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--border-radius);
+  transition: var(--transition);
+}
+
+.poster-figure:hover .poster-image-link img {
+  transform: scale(1.01);
+}
+
+.poster-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.25rem;
+}
+
 .section-intro {
   max-width: 760px;
   margin: 0 auto 2rem;
