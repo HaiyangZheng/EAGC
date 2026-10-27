@@ -1,7 +1,7 @@
 # The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery
 
 <p align="center">
-    <a href="https://example.com/paper"><img src="https://img.shields.io/badge/CVPR-2026-red"></a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_The_Devil_Is_in_Gradient_Entanglement_Energy-Aware_Gradient_Coordinator_for_CVPR_2026_paper.html"><img src="https://img.shields.io/badge/CVPR-2026-red"></a>
     <a href="http://arxiv.org/abs/2604.14176"><img src="https://img.shields.io/badge/arXiv-2604.14176-b31b1b"></a>
     <a href="https://haiyangzheng.github.io/EAGC/"><img src="https://img.shields.io/badge/Project_Page-Online-blue"></a>
 </p>
